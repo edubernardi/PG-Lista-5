@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\eduar\source\repos\PG2021-2\HelloFrameworkPOA\HelloFramework\Origem.cpp(50,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  HelloFramework.vcxproj -> C:\Users\eduar\Source\Repos\PG2021-2\HelloFrameworkPOA\Debug\HelloFramework.exe
